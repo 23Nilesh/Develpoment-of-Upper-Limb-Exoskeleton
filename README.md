@@ -1,3 +1,3 @@
 # Upper-Limb-Exoskeleton
 
-Exoskeleton
+upper limb Exoskeleton
