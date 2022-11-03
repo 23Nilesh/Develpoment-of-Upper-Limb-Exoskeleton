@@ -27,6 +27,6 @@ In this project my part was to design and manufactured the hardware of exoskelet
 >
 >![image](https://user-images.githubusercontent.com/90020325/199750872-48553a63-198b-4f17-87b6-6ef352767357.png)
 >![image](https://user-images.githubusercontent.com/90020325/199750886-aa52b7a7-a026-4a7c-b806-7b98b399bc53.png)
->Video Link:- https://photos.app.goo.gl/9VmiydrQ92CThVGL9
+>Video Link:- https://drive.google.com/file/d/1DHMdwwoCKXN-zLfhwkwQtPuYQ4RjSBDQ/view?usp=sharing
 >
->Video Link:- https://photos.app.goo.gl/ygdm9RwxsEYZoaY29
+>Video Link:- https://drive.google.com/file/d/1efumjOytyJUKjxkCPl_ZwyU6xXOz6Ciy/view?usp=sharing
