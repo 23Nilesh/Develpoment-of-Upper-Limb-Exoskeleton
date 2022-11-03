@@ -19,5 +19,12 @@ In this project my part was to design and manufactured the hardware of exoskelet
 
 #### **2. Manufacturing Hardware**
 >As hardware was to be weared by humna so it must be flexible to provide wrist, elbow, shoulder, back movement properly.
+
+>![image](https://user-images.githubusercontent.com/90020325/199749792-65669160-caef-4e2f-a933-fb00fc75ce48.png)
+
 #### **3. Control on hardware(Electronics)**
->The exoskeleton was controlled by geared motors, to provide high torque.
+>The exoskeleton was controlled by geared motors with driver, to provide high torque using Ardiuno Uno. To control the model the amount of hand lift will be measured by amount of angle it rotated. So we here use Potentiometer to measure the angle. As only elbow can't rotate in complete circle so we need to give restrcition to arm so it does not move completely. We do this by controlling motors and using potentiometer as feedback provider for angle measurement.
+
+>![image](https://user-images.githubusercontent.com/90020325/199750872-48553a63-198b-4f17-87b6-6ef352767357.png)
+>![image](https://user-images.githubusercontent.com/90020325/199750886-aa52b7a7-a026-4a7c-b806-7b98b399bc53.png)
+>Video Link:- https://photos.app.goo.gl/ygdm9RwxsEYZoaY29
