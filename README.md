@@ -14,7 +14,6 @@ In this project my part was to design and manufactured the hardware of exoskelet
 >Few parts designed by me:-
 >
 >![Elbow Support image](https://user-images.githubusercontent.com/90020325/199747499-9caf3ed0-74b9-40a6-b62a-e87915a2da63.png)
->![Back Support image](https://user-images.githubusercontent.com/90020325/199747571-0cbe4e53-d4be-4467-a7d7-22faa80cfa3c.png)
 >>![Complete Exoskeleton](https://user-images.githubusercontent.com/90020325/199746493-6f43ebb2-b23c-4df8-b66f-01a3cd09dd6a.png)
 
 #### **2. Manufacturing Hardware**
@@ -25,8 +24,4 @@ In this project my part was to design and manufactured the hardware of exoskelet
 #### **3. Control on hardware(Electronics)**
 >The exoskeleton was controlled by geared motors with driver, to provide high torque using Ardiuno Uno. To control the model the amount of hand lift will be measured by amount of angle it rotated. So we here use Potentiometer to measure the angle. As only elbow can't rotate in complete circle so we need to give restrcition to arm so it does not move completely. We do this by controlling motors and using potentiometer as feedback provider for angle measurement.
 >
->![image](https://user-images.githubusercontent.com/90020325/199750872-48553a63-198b-4f17-87b6-6ef352767357.png)
 >![image](https://user-images.githubusercontent.com/90020325/199750886-aa52b7a7-a026-4a7c-b806-7b98b399bc53.png)
->Video Link:- https://drive.google.com/file/d/1DHMdwwoCKXN-zLfhwkwQtPuYQ4RjSBDQ/view?usp=sharing
->
->Video Link:- https://drive.google.com/file/d/1efumjOytyJUKjxkCPl_ZwyU6xXOz6Ciy/view?usp=sharing
